@@ -59,6 +59,12 @@ education:
       time: 
       details: |
         - Study Abroad: University of Idaho
+        
+    - degree: Financial Planning Certificate
+      university: New York University School of Professional Studies
+      time: 
+      details: |
+        - Self-funded studies while teaching personal finance courses at Council for Economic Education
 
 experiences:
     - role: Lead Developer
