@@ -29,11 +29,11 @@ sidebar:
     #    level: Native
 
     interests:
-    - item: Happy to Travel
-     link:
+      - item: Happy to Travel
+        link:
 
-     - item: Work Remotely
-     link:
+      - item: Work Remotely
+        link:
      
      - item: Willing to Relocate
      link:
