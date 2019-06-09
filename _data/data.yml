@@ -52,13 +52,13 @@ education:
       details: |
         - Program in Entrepreneurship & Innovation
 
-          - Study Abroad: IE Business School
+        - Study Abroad: IE Business School, Madrid
 
     - degree: BSCE
       university: University of Maine
       time: 
       details: |
-        Study Abroad: University of Idaho
+        - Study Abroad: University of Idaho
 
 experiences:
     - role: Lead Developer
