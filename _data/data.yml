@@ -3,24 +3,24 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Troy D. White
-    tagline: I help people build successful careers. Sometimes distracted by a maltese poodle.
+    name: Curt Comber
+    tagline: I help technology companies find, attract and hire top talent. 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: troydwhite@gmail.com
-    location: Washington, D.C.
-    phone: 914-623-8769
-    website: LinkedInToCollege.com #do not add http://
-    linkedin: troydwhite
-    github: troydwhite
+    email: curtis3600@gmail.com
+    location: Palm Beach Gardens, FL
+    phone: 617-848-2988
+    website: AvanteSearch.com #do not add http://
+    linkedin: curtcomber
+    github: curtcomber
     gitlab:
     bitbucket:
-    twitter: '@troydwhite'
+    twitter: '@avantesearch'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,22 +36,22 @@ sidebar:
       - item: Work Remotely
         link:
      
-      - item: Willing to Relocate
+      - item: Family 
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Entrepreneurial Marketing Strategist &#916; Strategically Develop Relationships and New Markets &#916; Leverage New Technology to Grow Business, Connect with Customers
+      Senior Technical Recruiter with 17 years’ experience supporting software companies.  Passionate professional with an excellent Professional Services background, helping client’s find, attract and fill technical customer-facing positions with agency and corporate in-house expertise.
 
-      I use creative integrated marketing strategies to define and deliver products for C-level customers, prospects and members.
+      Effective management of the entire hiring process - full lifecycle recruiting from identifying, sourcing, engaging, mentoring, to closing candidates, in a high-volume setting.
 
 education:
-    - degree: MBA
-      university: University of Washington
+    - degree: BS Business Administration
+      university: Northeastern University
       time: 
       details: |
-        - Program in Entrepreneurship & Innovation
+        - Concentration in Marketing
 
         - Study Abroad: IE Business School, Madrid
 
